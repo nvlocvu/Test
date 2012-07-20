@@ -42,6 +42,9 @@
     // e.g. self.myOutlet = nil;
 }
 
+/// what the hell
+
+
 - (BOOL)shouldAutorotateToInterfaceOrientation:(UIInterfaceOrientation)interfaceOrientation
 {
     // Return YES for supported orientations
